@@ -1,8 +1,8 @@
 import "../Css/mainPage.css"
-import KeyWordHandler from "./keywordHandler";
+import KeyWordHolder from "./keywordHandler";
 
 function MainPage(){
-    return <div> <KeyWordHandler/> </div>
+    return <div> <KeyWordHolder/> </div>
 }
 
 export default MainPage;
