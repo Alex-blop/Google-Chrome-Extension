@@ -1,0 +1,12 @@
+{
+  "name": "Google Extention",
+  "description":"Test", 
+  "version": "0.0.1",
+
+  "manifest_version": 3,
+
+  "action": {
+    "default_title": "Click to view a popup",
+    "default_popup": "index.html"
+  }
+}
